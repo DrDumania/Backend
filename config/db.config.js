@@ -1,6 +1,6 @@
 module.exports = {
     DBSERVER: 'localhost',
-    DBUSER: 'root',
-    DBPASS: '',
-    DBNAME: 'gengo'
+    DBUSER: 'id22418057_duarte',
+    DBPASS: 'DuarteRui8.',
+    DBNAME: 'id22418057_gengodb'
 };
