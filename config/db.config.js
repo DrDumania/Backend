@@ -1,6 +1,6 @@
 module.exports = {
-    DBSERVER: 'localhost',
-    DBUSER: 'id22418057_duarte',
-    DBPASS: 'DuarteRui8.',
-    DBNAME: 'id22418057_gengodb'
+  DBSERVER: "sql8.freesqldatabase.com",
+  DBUSER: "sql8718749",
+  DBPASS: "CyxUnLDjVR",
+  DBNAME: "sql8718749",
 };
